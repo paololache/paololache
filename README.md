@@ -12,7 +12,7 @@ Expanding my software development knowledge to complement my architecture experi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Telefonica Tech.
+- 🔭 I’m currently working as an entrepreneur.
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on tech community
 - 🤔 I’m looking for help with challenging projects.
